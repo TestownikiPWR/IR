@@ -1,5 +1,5 @@
 X0100
-W ktĂłrym z poniĹĽszych systemĂłw obsĹ‚ugi wsp. strat jest najwiÄ™szy?
+W którym z poniższych systemów obsługi wspólczynnik strat jest największy?
 M/M/N
 M/M/N/0
 M/M/N/0/50

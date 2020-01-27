@@ -1,6 +1,6 @@
 X0010
-Czy sprawnoĹ›Ä‡ uĹĽytkowa systemu telekomunikacyjnego jest:
-miarÄ… gotowoĹ›ci systemu do zaĹ‚atwiania ruchu telefonicznego
-miarÄ… liczby uszkodzeĹ„ systemu w jednostce czasu
-miarÄ… jakoĹ›ci usĹ‚ug Ĺ›wiadczonch przez system
-miarÄ… niezawodnoĹ›ci systemu
+Czy sprawność użytkowa systemu telekomunikacyjnego jest:
+miarą gotowości systemu do załatwiania ruchu telefonicznego
+miarą liczby uszkodzeń systemu w jednostce czasu
+miarą jakości usług świadczonch przez system
+miarą niezawodności systemu
