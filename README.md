@@ -1,6 +1,6 @@
 # Inżynieria Ruchu
 
-Testownik do Kompatybilności Elektromagnetycznej do wykładu dr inż. Janusza Klinka
+Testownik do wykładu z Inżynierii ruchu dr inż. Janusza Klinka.
 
 **To jest sama baza i nie zawiera programu .exe z testownikiem**
 
