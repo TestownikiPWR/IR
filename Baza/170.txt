@@ -1,0 +1,6 @@
+X1000
+Sprawność użytkowa systemu telekomunikacyjnego jest:
+Zwykle mniejsza od sprawności technicznej
+Zawsze różna od sprawności usługowej
+Równa sprawności usługowej
+Zwykle większa od sprawności technicznej

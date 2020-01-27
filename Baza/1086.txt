@@ -1,0 +1,6 @@
+X1000
+Jednostką intensywności wywołań jest:
+1/jednostka czasu
+Liczba pakietów na sekundę
+Erlang
+żadne z wymienionych odpowiedzi

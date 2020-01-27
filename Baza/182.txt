@@ -1,0 +1,6 @@
+﻿X1000
+Czy w inżynierii ruchu sprawność techniczna systemu jest:
+miarą jakości świadczonych usług
+stosunkiem czasu awarii systemu do obserwacji
+stosunkiem czasu awarii systemu do czasu poprawnej pracy
+miarą liczny uszkodzeń systemu w jednostce czasu?

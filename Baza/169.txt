@@ -1,0 +1,6 @@
+X0100
+Model Poissona zakłada, iż zgłoszenia:
+Charakteryzuje silna korelacja czasowa
+Pojawią się w niezależnych chwilach czasu
+Tworzą strumień o długiej pamięci
+Tworzą niestacjonarny strumień

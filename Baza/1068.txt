@@ -1,0 +1,6 @@
+﻿X1100
+Jak definiujemy wiązkę doskonałą (całkowicie dostępną)?
+Wszystkie łącza są całkowicie równoważne i wzajemnie zastępowalne. 
+Każde źródło ma dostęp do każdego łącza wiązki.
+Wszystkie łącza nie są całkowicie równoważne i nie są wzajemnie zastępowalne. 
+Wszystkie łącza nie są całkowicie równoważne ale są wzajemnie zastępowalne. 

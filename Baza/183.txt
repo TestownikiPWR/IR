@@ -1,0 +1,6 @@
+﻿X0001
+Współczynnik Hursta dla strumieni o bardzo długiej pamięci:
+dąży do nieskończoności
+jest większy od 10
+dąży do zera
+jest bliski jeności

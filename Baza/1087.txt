@@ -1,0 +1,6 @@
+﻿X0100
+Model C-Erlanga można zapisać jako:
+M/M/niesk.
+M/M/N
+M/M/N/0
+M/M/niesk./niesk.

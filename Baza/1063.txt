@@ -1,0 +1,6 @@
+﻿X1000
+Intensywność wywołań:
+całkowita liczba zgłoszeń kierowanych do abonenta na jednostkę czasu
+całkowita liczba zgłoszeń kierowanych od abonenta na jednostkę czasu
+całkowita liczba zgłoszeń kierowanych do abonenta na jednostkę drogi
+całkowita liczba zgłoszeń kierowanych od abonenta na jednostkę drogi

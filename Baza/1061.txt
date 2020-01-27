@@ -1,0 +1,7 @@
+﻿X10000
+Co to jest "proces urodzin i śmierci"?
+Szczególny przypadek łańcucha Markowa. Dopuszcza tylko przejścia między stanami sąsiednimi. Czas może być ciągły lub dyskretny.
+Szczególny przypadek łańcucha Klinc'a. Dopuszcza tylko przejścia między stanami sąsiednimi. Czas może być ciągły lub dyskretny.
+Szczególny przypadek łańcucha Markowa. Nie dopuszcza przejścia między stanami sąsiednimi. Czas może być stały lub dyskretny.
+Szczególny przypadek łańcucha Rozrat'a. Dopuszcza tylko przejścia między stanami sąsiednimi. Czas może być ciągły lub dyskretny.
+Szczególny przypadek łańcucha Markowa. Dopuszcza tylko przejścia między stanami ciągłymi. Czas może być dyskretny.

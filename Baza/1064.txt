@@ -1,0 +1,9 @@
+﻿X1110000
+Podaj modele Erlanga:
+M/G/N/0
+M/N/N/0
+M/M/N
+M/N/G/0
+M/0/N/0
+M/0/N/M
+N/M/M

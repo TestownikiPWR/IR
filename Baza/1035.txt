@@ -1,0 +1,6 @@
+﻿X0100
+Wskaż prawdziwe:
+ruch końcowy jest składową ruchu wew. w centrali
+ruch wewnętrzny jest składową ruchu końcowego w centrali
+ruch zewnętrzny jest składową ruchu końcowego w centrali
+żadne z powyższych

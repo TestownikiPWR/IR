@@ -1,0 +1,6 @@
+﻿X0100
+Model B-Erlanga, po modyfikacji polegającej na N->Nieskończoność, dąży do modelu:
+Bernoulliego
+Poissona
+C-Erlanga
+Engesta

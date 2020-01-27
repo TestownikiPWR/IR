@@ -1,0 +1,6 @@
+﻿X0100
+Podaj średni czas obsługi (zakładając że ma on rozkład wykładniczy) dla systemu opisanego następującym diagramem stanów:
+u=2/h=2/1->h=1 sredni czas obslugi
+u=1/h=1/2->h=2 sredni czas obslugi
+u=1/h=2/1->h=2 sredni czas obslugi
+u=1/h=1/1->h=1 sredni czas obslugi

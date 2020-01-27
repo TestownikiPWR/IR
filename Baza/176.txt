@@ -1,0 +1,6 @@
+﻿X0010
+Jednostką średniej intensywności rozłączeń jest:
+Odwrotność jednostki czasu
+Erlang
+Odwrotność średniej intensywności wywołań
+t/erlang

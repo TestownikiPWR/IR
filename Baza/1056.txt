@@ -1,0 +1,11 @@
+﻿X001111100
+Źródła ruchu (pierwotny, wtorny):
+(pierwotne) - dla wiązki łączy międzycentralowych – centrala komutacyjna
+(pierwotne) - dla centralki międzymiastowej – sieć strefowa
+(pierwotne) – aparat telefoniczny generujący wywołania
+(wtórne) - dla wiązki łączy międzycentralowych – centrala komutacyjna
+(wtórne) - dla centrali komutacyjnej – wiązki łączy przychodzących do centrali
+(wtórne) - dla relacji – centrala
+(wtórne) - dla centralki międzymiastowej – sieć strefowa
+(pierwotne) - dla relacji – centrala
+(wtórne) - aparat telefoniczny generujący wywołania

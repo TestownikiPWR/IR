@@ -1,0 +1,6 @@
+﻿X1000
+Algorytm Benessa polega na wyborze drogi połączeniowej:
+Przez możliwie najbardziej obciążony komutator
+Z użyciem najmniejszej liczby komutatorów
+Z użyciem największych komutatorów
+Przez możliwie najmniej obciążony komutator

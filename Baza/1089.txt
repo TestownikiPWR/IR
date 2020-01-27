@@ -1,0 +1,6 @@
+﻿X1000
+W modelu Erlanga zakłada się, iż:
+średnia intensywność wywołań nie zależy od stanu systemu
+liczba aparatów obsługi jest porównywalne z liczbą źródeł ruchu
+średnia intensywność wywołań zależy od stanu systemu
+liczba aparatów obsługi dąży do nieskończoności

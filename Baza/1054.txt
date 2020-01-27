@@ -1,0 +1,9 @@
+﻿X110000000
+W modelu Bernoulliego E i B:
+B=0
+E>0
+E=B
+B>=E
+E<B
+E<0
+B=/=0

@@ -1,0 +1,8 @@
+﻿X110000
+Co to jest natężenie ruchu?
+chwilowe – ilość połączeń istniejących jednocześnie na danym odcinku
+średnie – średnia arytmetyczna z wartości wszystkich chwilowych natężeń ruchu na danym odcinku w kolejnych chwilach obserwacji
+chwilowe – średnia arytmetyczna z wartości wszystkich chwilowych natężeń ruchu na danym odcinku w kolejnych chwilach obserwacji
+średnie – średnia arytmetyczna z ilości połączeń istniejących jednocześnie na danym odcinku
+średnie – ilość połączeń istniejących jednocześnie na jednym odcinku
+chwilowe – średnia ważona z wartości wszystkich chwilowych natężeń ruchu na danym odcinku w kolejnych chwilach obserwacji

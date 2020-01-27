@@ -1,0 +1,6 @@
+﻿X0001
+Zakłada się, że liczba źródeł ruchu jest wielokrotnie większa od liczby aparatów obsługi w modelu:
+Engsteta
+Bernoulliego
+Poissona
+Erlanga

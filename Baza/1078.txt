@@ -1,0 +1,8 @@
+﻿X111000
+Cechy strumienia prostego
+Stacjonarność
+Brak pamięci
+Pojedynczość
+Niestacjonarność
+Mnogość
+Duża pamięć

@@ -1,0 +1,6 @@
+﻿X0110
+Dany jest poissonowski strumień zgłoszeń, gdzie zgłoszenia pojawiają się ze średnią intensywnością wynoszącą 2 zgłoszenia na minutę, jakie jest prawdopodobieństwo że w ciągu 1 minuty nie pojawi się zgłoszenie (lambda=2, t=1)
+P(t)=e^-lambda
+P(t)=e^-lambda*t
+P(1)=e^-2
+P(1)=e^2*lamba^2

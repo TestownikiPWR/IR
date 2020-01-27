@@ -1,0 +1,6 @@
+﻿X1000
+W modelu Bernoulliego:
+B=0
+E<B
+E=0
+E=B

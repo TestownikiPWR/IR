@@ -1,0 +1,6 @@
+﻿X0100
+Metoda Jacobeusa ma praktyczne zastosowanie w układach
+Jednosekcyjnych
+O dużej liczbie sekcji
+O małej Liczbie sekcji
+Nieblokowanych

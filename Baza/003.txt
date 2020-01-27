@@ -1,0 +1,6 @@
+﻿X1000
+Jednorodny strumień zgłoszeń może być w sposób jednoznaczny opisany przez
+Ciąg przedziałów czasu między zgłoszeniami
+Ciąg pojawiających się zgłoszeń w zadanych przedziałach czasu
+Żadne z powyższych
+Coś tam liczbę w GNR

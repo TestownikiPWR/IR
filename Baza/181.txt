@@ -1,0 +1,6 @@
+﻿X0100
+Zakłada się, że prawdopodobieństwo pojawienia się co najmniej 2 zgłoszeń w przedziale Δt->0 w poissonowskim strumieniu zgłoszeń:
+wynosi 1/λ
+jest bliskie zeru
+jest bliskie 1
+wynosi p=1/µ

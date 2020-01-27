@@ -1,0 +1,9 @@
+﻿X1111000
+Na czym polega i co cechuje metoda Jacobeusa?
+Wyniki obliczeń są zadowalające, gdy obliczony wsp. strat jest co najwyżej dwa razy większy od rzeczywistego
+Założenia upraszczające są prawdziwe jedynie dla małych wartości współczynnika blokady
+Założenia upraszczające są prawdziwe jedynie przy dużej liczbie k układów jednostkowych sekcji A
+Dla pól komutacyjnych o liczbie sekcji większej niż trzy metoda staje się mało praktyczna
+Założenia upraszczające są prawdziwe jedynie dla dużych wartości współczynnika blokady
+Założenia upraszczające są prawdziwe jedynie przy małej liczbie k układów jednostkowych sekcji A
+Dla pól komutacyjnych o liczbie sekcji mniejszej niż dwie metoda staje się mało praktyczna

@@ -1,0 +1,6 @@
+﻿X0010
+Strumien Poissona dla małego delta t prawdopodobieństwo wystąpienia dwoóch zdarzeń:
+Jest bliskie jeden
+Jest nieskończone
+Jest bliskie zeru
+Wynosi 0,5

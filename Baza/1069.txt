@@ -1,0 +1,6 @@
+﻿X1000
+Co to jest sprawność usługowa?
+Zdolność systemu do załatwiania ruchu (spełniania ilościowych zadań ruchowych stawianych przez źródła ruchu)
+Liczba wyrażona w jednostce czasu określająca czas na wykonanie usługi
+Jest to wartośc wyrażona w % w zależności od stopnia wykonania usługi
+Zdolność do sprawnego wykonania usługi

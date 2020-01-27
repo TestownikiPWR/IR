@@ -1,0 +1,6 @@
+﻿X0100
+Która z metod daje najdokładniejsze informacje dot. natężenie ruchu w GNR:
+ADPH
+TCBH
+ADPFH
+ADPQH

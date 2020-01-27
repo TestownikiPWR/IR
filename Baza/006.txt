@@ -1,0 +1,6 @@
+﻿X1000
+Czy wiązka doskonała to taka w której
+Wszystkie łącza są równoważne i wzajemnie zastępowalne
+Straty ruchu są równe zero
+Współczynnik czegoś jest równy
+Istnieje przyporządkowanie źródeł ruchu do określonych łączy?

@@ -1,0 +1,6 @@
+﻿X0010
+Rozkład Poissona zakłda, iż liczba żródeł ruchu jest:
+Małe
+10-krotnie większa niż liczba aparatów obsługi
+Bardzo duża
+Porównywalna z liczbą apartów obsługi

@@ -1,0 +1,6 @@
+X0001
+Model Erlanga ze stratami zgłoszeń można zapisać jako:
+M/G/N
+M/M/N
+M/G/N/∞
+M/M/N/0

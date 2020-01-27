@@ -1,0 +1,6 @@
+﻿X0100
+Obsługę ruchu w małej centrali abonenckiej najlepiej opisze model
+Erlanga
+Engesta
+Poissona
+Erlanga i Poissona

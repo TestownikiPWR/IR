@@ -1,0 +1,6 @@
+﻿X0100
+W którym z poniższych systemów obsługi wsp. strat jest najmniejszy?
+M/M/N/0
+M/M/M
+M/M/N/0/50
+M/M/N/50/0

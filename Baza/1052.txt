@@ -1,0 +1,7 @@
+﻿X00100
+Jak definiujemy średnie natężenie ruchu?
+Iloraz średniej liczby zgłoszeń na jednostkę czasu oraz średniego czasu trwania połączenia
+Suma średniej liczby zgłoszeń na jednostkę czasu oraz średniego czasu trwania połączenia
+Iloczyn średniej liczby zgłoszeń na jednostkę czasu oraz średniego czasu trwania połączenia
+Iloczyn średniej liczby zgłoszeń na jednostkę drogi oraz średniego czasu trwania połączenia
+Różnica średniej liczby zgłoszeń na jednostkę czasu oraz średniego czasu trwania połączenia

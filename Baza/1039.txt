@@ -1,0 +1,6 @@
+﻿X0101
+Jeden Erlang to:
+Iloczyn 60 połączeniominut i średniego czasu trwania połączenia w GNR
+60 połączeniominut w czasie obserwacji jednej godziny
+Jednostka wartości średniego czasu trwania połączenia
+Między innymi jednostka obciążalności ruchowej łącza

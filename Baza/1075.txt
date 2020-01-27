@@ -1,0 +1,9 @@
+﻿X1110001
+Co to jest jeden Erl i ile wynosi
+jedna połączenio-godzina na godzinę
+1 Erl = 60 PM (połączenio-minuty)
+1 Erl = 36 CCS (Hundred Call Seconds)
+jedna połączenio-minuta na godzinę
+1 Erl = 36 PM (połączenio-minuty)
+1 Erl = 60 CCS (Hundred Call Seconds)
+jednostka natężenia "trafiku"

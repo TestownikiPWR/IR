@@ -1,0 +1,6 @@
+﻿X1000
+Sprawność użytkowa systemu to:
+stosunek liczby zgłoszeń które zakończyły się rozmową do ogólnej liczby zgłoszeń (stosunek ruchu załatwionego do całkowitego)
+stosunek ruchu całkowitego do załatwionego
+różnica ruchu całkowitego i załatwionego
+różnica ruchu załatwionego i całkowitego

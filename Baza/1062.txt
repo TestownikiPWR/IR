@@ -1,0 +1,8 @@
+﻿X001000
+Zależność między A, a Az w modelu Erlanga:
+Az=B(1-A)
+Az=A(B)
+Az=A(1-B)
+Az=A(1-B^2)
+Az=T(1-B)
+Az=B(1-B)*A

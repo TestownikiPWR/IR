@@ -1,0 +1,6 @@
+﻿X1100
+Która notacja opisuje stratny model Engsteta?
+M/G/N/0/S
+M/N/N/0/S
+M/M/N
+M/G/N/0

@@ -1,0 +1,6 @@
+﻿X1000
+Ile wynosi wsp. strat w systemie opisanym modelem M/M/3/0, jeĹ›li prawdopodobieĹ„stwo blokady wynosi 0,05?
+0,05
+1
+0
+0,5

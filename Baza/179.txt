@@ -1,0 +1,6 @@
+﻿X1000
+Prawdzdiwe jest stwierdzenie:
+zwykle sprawność techniczna jest większa od sprawności użytkowej
+zwykle sprawność techniczna jest równa sprawności użytkowej
+zwykle sprawność techniczna jest mniejsza od sprawności użytkowej
+zwykle sprawność usługowa jest większa od sprawności technicznej

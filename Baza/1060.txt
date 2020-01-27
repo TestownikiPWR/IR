@@ -1,0 +1,10 @@
+﻿X00100000
+Jednostka intensywności wywołań:
+Jednostką jest 2/t (t – jednostka czasu, zazwyczaj minuta).
+Jednostką jest 1/g (g – jednostka czasu, zazwyczaj godzina).
+Jednostką jest 1/t (t – jednostka czasu, zazwyczaj minuta).
+Jednostką jest 1/t (t – jednostka czasu, zazwyczaj sekunda).
+Jednostką jest 1/t (t – jednostka czasu, zazwyczaj godzina).
+Jednostką jest t/1 (t – jednostka czasu, zazwyczaj minuta).
+Jednostką jest t/t^2 (t – jednostka czasu, zazwyczaj sekunda).
+Jednostką jest ln|t| (t – jednostka czasu, zazwyczaj minuta).

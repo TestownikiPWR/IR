@@ -1,0 +1,9 @@
+﻿X1110001
+Prawo wiązki (2)
+Średnia obciążalność rośnie bardzo szybko dla małych wiązek
+Średnia obciążalność rośnie bardzo powoli dla dużych wiązek
+Łączenie wiązek jest kosztowne i skomplikowane technicznie
+Średnia obciążalność rośnie bardzo powoli dla małych wiązek
+Średnia obciążalność rośnie bardzo szybko dla dużych wiązek
+Łączenie wiązek jest tanie i nieskomplikowane technicznie
+W praktyce łączy się do wielkości 60-180 łączy

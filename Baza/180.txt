@@ -1,0 +1,6 @@
+﻿X0010
+Obciążalność łącza w wiązce:
+jest stała dla danej wiązki
+maleje wraz ze wzrostem wiązki
+rośnie wraz z jej wzrostem
+jest wprost proporcjonalna do intensywności wywołań

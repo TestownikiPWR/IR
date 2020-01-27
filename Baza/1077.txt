@@ -1,0 +1,9 @@
+﻿X1111000
+Cechy strumienia niejednorodnego
+Chwila napływu zgłoszenia
+B(t) = 1 - F(t)
+B(t) - prawdopodobieństwo, że interwał pomiędzy zgłoszeniami jest większy od t
+F(t) - dystrybuanta rozkładu, że interwał pomiędzy zgłoszeniami nie jest większy od t
+F(t) = B(t) - 1
+B(t) - dystrybuanta rozkładu, że interwał pomiędzy zgłoszeniami jest większy od t
+F(t) - prawdopodobieństwo, że interwał pomiędzy zgłoszeniami nie jest większy od t

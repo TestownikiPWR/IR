@@ -1,0 +1,6 @@
+﻿X0001
+Model C-Erlanga można zapisać jako:
+M/M/∞
+M/M/N/0
+M/M/0/N
+M/M/N

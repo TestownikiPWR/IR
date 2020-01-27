@@ -1,0 +1,7 @@
+﻿X0001
+W modelu Bernouliego
+Współczynnik natłoku -› nieskończoność
+Współczynnik strat -› nieskończoność
+Współczynnik natłoku = 0
+Współczynnik strat = 0
+

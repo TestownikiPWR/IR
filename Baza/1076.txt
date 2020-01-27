@@ -1,0 +1,7 @@
+﻿X11100
+Cechy strumienia jednorodnego
+Ciąg chwil napływu zgłoszenia
+Ciąg przedziałów między zgłoszeniami
+Ciąg liczb pojawiających się zgłoszeń w zadanych przedziałach czasu
+Ciąg trwania zgłoszenia
+Ciąg Erlanga

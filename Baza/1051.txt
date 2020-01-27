@@ -1,0 +1,8 @@
+﻿X110000
+Statystyczna równowaga ruchu:
+W danym stanie prawdopodobieństwo nowego wywołania jest równe prawdopodobieństwu zakończenia obsługi jakiegoś innego wywołania.
+Intensywność strumienia wpływającego do jakiegoś stanu jest równa intensywności strumienia wypływającego z tego stanu.
+W danym stanie prawdopodobieństwo nowego wywołania nie jest równe prawdopodobieństwu zakończenia obsługi jakiegoś innego wywołania.
+W danym stanie rozkład prawdopodobieństwa nowego wywołania jest równe rozkładowi poisson'owskiemu zakończenia obsługi jakiegoś innego wywołania.
+Intensywność strumienia wypływającego z jakiegoś stanu jest równa intensywności strumienia wpływającego do tego stanu.
+Intensywność strumienia wpływającego do jakiegoś stanu nie jest równa intensywności strumienia wypływającego z tego stanu.

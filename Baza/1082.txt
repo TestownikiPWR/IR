@@ -1,0 +1,6 @@
+﻿X1000
+Na czym polega algorytm Benesa?
+Zajmowanie najbardziej obciążonego komutatora jeżeli tylko da się przez niego zrealizować połączenie
+Zajmowanie najmniej obciążonego komutatora 
+Zwalnianie najbardziej obciążonego komutatora jeżeli nie da się przez niego zrealizować połączenia
+Zwalnianie najbardziej obciążonego komutatora 
