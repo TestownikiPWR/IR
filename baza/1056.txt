@@ -1,4 +1,4 @@
-﻿X001111100
+X001111100
 Źródła ruchu (pierwotny, wtorny):
 (pierwotne) - dla wiązki łączy międzycentralowych – centrala komutacyjna
 (pierwotne) - dla centralki międzymiastowej – sieć strefowa

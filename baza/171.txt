@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Prawdziwa jest zależność:
 E1,N(A)>E2,N(A)
 E1,N(A)=E2,N(2A)

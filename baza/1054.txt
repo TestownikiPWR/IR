@@ -1,4 +1,4 @@
-﻿X110000000
+X110000000
 W modelu Bernoulliego E i B:
 B=0
 E>0

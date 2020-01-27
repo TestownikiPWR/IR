@@ -1,4 +1,4 @@
-﻿X1000000
+X1000000
 Jak definiujemy GNR?
 Godzina największego ruchu - to okres 60 kolejnych minut w ciągu doby, podczas których średnie natężenie ruchu jest największe
 Godzina najmniejszego ruchu - to okres 60 kolejnych minut w ciągu doby, podczas których średnie natężenie ruchu jest najmniejsze

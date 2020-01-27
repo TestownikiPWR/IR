@@ -1,4 +1,4 @@
-﻿X1111000
+X1111000
 Cechy strumienia niejednorodnego
 Chwila napływu zgłoszenia
 B(t) = 1 - F(t)

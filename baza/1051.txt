@@ -1,4 +1,4 @@
-﻿X110000
+X110000
 Statystyczna równowaga ruchu:
 W danym stanie prawdopodobieństwo nowego wywołania jest równe prawdopodobieństwu zakończenia obsługi jakiegoś innego wywołania.
 Intensywność strumienia wpływającego do jakiegoś stanu jest równa intensywności strumienia wypływającego z tego stanu.

@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Obciążalność łącza w wiązce:
 jest stała dla danej wiązki
 maleje wraz ze wzrostem wiązki

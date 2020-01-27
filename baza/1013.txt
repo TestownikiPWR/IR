@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Które z poniższych własności jest prawdziwe dla modelu Bernoulliego?:
 Az>A
 Az<A

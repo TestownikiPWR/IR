@@ -1,4 +1,4 @@
-﻿X111000
+X111000
 Cechy strumienia prostego
 Stacjonarność
 Brak pamięci

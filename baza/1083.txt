@@ -1,4 +1,4 @@
-﻿X1111000
+X1111000
 Na czym polega i co cechuje metoda Jacobeusa?
 Wyniki obliczeń są zadowalające, gdy obliczony wsp. strat jest co najwyżej dwa razy większy od rzeczywistego
 Założenia upraszczające są prawdziwe jedynie dla małych wartości współczynnika blokady

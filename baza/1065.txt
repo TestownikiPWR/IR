@@ -1,4 +1,4 @@
-﻿X1100000
+X1100000
 Podaj modele Engseta:
 M/G/N/0/S
 M/N/N/0/S

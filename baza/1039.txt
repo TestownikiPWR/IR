@@ -1,4 +1,4 @@
-﻿X0101
+X0101
 Jeden Erlang to:
 Iloczyn 60 połączeniominut i średniego czasu trwania połączenia w GNR
 60 połączeniominut w czasie obserwacji jednej godziny

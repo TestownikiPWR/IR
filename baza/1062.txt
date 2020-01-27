@@ -1,4 +1,4 @@
-﻿X001000
+X001000
 Zależność między A, a Az w modelu Erlanga:
 Az=B(1-A)
 Az=A(B)

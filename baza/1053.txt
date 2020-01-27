@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Czy spawność techniczna jest większa/mniejsza od sprawności użytkowej?
 trudno określić
 mniejsza

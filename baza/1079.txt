@@ -1,4 +1,4 @@
-﻿X100
+X100
 Blokowalność pól w mniejszym czy większym sensie
 Twierdzenie Closa – dwustronne trzysekcyjne pole komutacyjne Closa v(m,n,r) jest nieblokowalne w wąskim sensie wtedy i tylko wtedy, gdy m >= 2n-1. 
 Twierdzenie Closa – dwustronne dwusekcyjne pole komutacyjne Closa v(m,n,r) jest nieblokowalne w wąskim sensie wtedy i tylko wtedy, gdy m >= n-1. 

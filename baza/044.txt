@@ -1,4 +1,4 @@
-﻿X0001
+X0001
 W modelu Bernouliego
 Współczynnik natłoku -› nieskończoność
 Współczynnik strat -› nieskończoność

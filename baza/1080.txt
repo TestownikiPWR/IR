@@ -1,4 +1,4 @@
-﻿X1001
+X1001
 Prawo wiązki (1)
 Przy łączeniu małych wiązek łączy w większe wiązki maleje współczynnik strat
 Przy łączeniu małych wiązek łączy w większe wiązki rośnie współczynnik strat

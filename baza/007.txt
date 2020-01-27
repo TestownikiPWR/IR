@@ -1,4 +1,4 @@
-﻿X1011
+X1011
 Do cech strumienia prostego zalicza się:
 Stacjonarność
 Niezmienność

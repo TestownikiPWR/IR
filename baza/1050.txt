@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Jak definiujemy wiązkę doskonałą?
 nie wszystkie łącza są całkowicie równoważne i wzajemnie zastępowalne, ale każde źródło ma dostęp do każdego łącza wiązki
 wszystkie łącza są całkowicie równoważne, ale nie są wzajemnie zastępowalne, każde źródło ma dostęp do każdego łącza wiązki

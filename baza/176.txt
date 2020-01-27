@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Jednostką średniej intensywności rozłączeń jest:
 Odwrotność jednostki czasu
 Erlang

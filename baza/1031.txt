@@ -1,4 +1,4 @@
-﻿X0010
+X0010
 Która notacja opisuje model Erlanga z opóźnieniem?
 M/G/N/0/S
 M/N/N/0/S

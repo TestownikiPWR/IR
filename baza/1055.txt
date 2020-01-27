@@ -1,4 +1,4 @@
-﻿X11000
+X11000
 Model Poissona to graniczny przypadek modelu:
 Erlanga
 Engseta

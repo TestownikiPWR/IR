@@ -1,4 +1,4 @@
-﻿X1000
+X1000
 Przy modelu Erlanga jaki jest warunek równowagi statycznej:  
 A < N 
 Az > A

@@ -1,4 +1,4 @@
-﻿X0101
+X0101
 Która notacja opisuje stratny model Erlanga?
 M/G/N/0/S
 M/N/N/0

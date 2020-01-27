@@ -1,4 +1,4 @@
-﻿X1110
+X1110
 Jak opisac stratny i bezstratny model Erlanga:
 ze stratami M/G/N/0
 ze stratami M/N/N/0

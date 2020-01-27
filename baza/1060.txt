@@ -1,4 +1,4 @@
-﻿X00100000
+X00100000
 Jednostka intensywności wywołań:
 Jednostką jest 2/t (t – jednostka czasu, zazwyczaj minuta).
 Jednostką jest 1/g (g – jednostka czasu, zazwyczaj godzina).

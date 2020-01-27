@@ -1,4 +1,4 @@
-﻿X1000
+X1000
 W modelu Bernoulliego:
 B=0
 E<B

@@ -1,4 +1,4 @@
-﻿X11100
+X11100
 Cechy strumienia jednorodnego
 Ciąg chwil napływu zgłoszenia
 Ciąg przedziałów między zgłoszeniami

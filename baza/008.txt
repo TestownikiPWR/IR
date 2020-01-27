@@ -1,4 +1,4 @@
-﻿X1000
+X1000
 Stan równowagi statycznej oznacza iż 
 prawdopodobieństwo nowego zgłoszenia jest równe prawdopodobieństwu zakończenia obsługi innego zgłoszenia
 Prawdopodobieństwo zajętości „X” aparatów obsługi jest równe prawdopodobieństwu iż dokładnie X aparatów obsługi będzie wolnych

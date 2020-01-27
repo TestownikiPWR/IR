@@ -1,4 +1,4 @@
-﻿X1110001
+X1110001
 Prawo wiązki (2)
 Średnia obciążalność rośnie bardzo szybko dla małych wiązek
 Średnia obciążalność rośnie bardzo powoli dla dużych wiązek

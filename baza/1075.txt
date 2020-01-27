@@ -1,4 +1,4 @@
-﻿X1110001
+X1110001
 Co to jest jeden Erl i ile wynosi
 jedna połączenio-godzina na godzinę
 1 Erl = 60 PM (połączenio-minuty)
