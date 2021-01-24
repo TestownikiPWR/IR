@@ -1,4 +1,4 @@
-X0001
+X0100
 Do systemów z opóźnieniem zgłoszeń zalicza się systemy
 Bez poczekalni
 Z poczekalnią
