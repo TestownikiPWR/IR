@@ -1,6 +1,6 @@
 X1000
-RozkĹ‚ad Poissona zakĹ‚ada strumieĹ„ ruchu generowany przez:
-bardzo duĹĽÄ… liczbÄ™ ĹşrĂłdeĹ‚ ruchu
-maĹ‚Ä… liczbÄ™ ĹşrĂłdeĹ‚ ruchu
-zmiennÄ… liczbÄ™ ĹşrĂłdeĹ‚ ruchu
-jedno ĹşrĂłdĹ‚o ruchu
+Rozkład Poissona zaklada strumień ruchu generowany przez:
+bardzo dużą liczbą źródeł ruchu
+mała liczbą źródeł ruchu
+zmienną liczbą źródeł ruchu
+jedno źródło ruchu
